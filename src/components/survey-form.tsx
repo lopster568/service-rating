@@ -34,7 +34,7 @@ const SurveyForm = () => {
   };
 
   return (
-    <div className="bg-white h-[600px] w-96 rounded-lg overflow-y-scroll scroll-smooth">
+    <div className="bg-white mx-auto flex-grow h-[600px] w-96 rounded-lg overflow-y-scroll scroll-smooth">
       <div className="m-4">
         <div className="flex gap-2 items-center">
           <svg
